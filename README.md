@@ -1,12 +1,12 @@
-# 👋 Hi, I’m Aditi
+# 👋 Hi, This is Aditi
 
 ## About Me:
-I am Aditi , currently pursuing my Btech in Data Science from Manipal Institute of Technology. A Machine Learning and Data Science enthusiast. Interested in intergrating the hardware aspect to the software aspect in projects. 
+I am an undergrad student, currently pursuing my Btech in Data Science from Manipal Institute of Technology. A Machine Learning and Data Science enthusiast. Interested in intergrating the hardware aspect to the software aspect in projects. 
 
 ## 💡Technologies:
 
 ### Languages:
-Java 
+Java, C++, Python
 
 ### Libraries and Framework:
 Numpy, Pandas, Scikit-learn, tensorflow, keras
