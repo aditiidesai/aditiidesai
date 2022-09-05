@@ -9,7 +9,7 @@ I am an undergrad student, currently pursuing my Btech in Data Science from Mani
 Java, C++, Python
 
 ### Libraries and Framework:
-Numpy, Pandas, Scikit-learn, tensorflow, keras
+OpenCV, Numpy, Pandas, Scikit-learn, tensorflow, keras
 
 ### Other Tools:
 Adobe Illustrator, Adobe Photoshop, Scratch
