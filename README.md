@@ -1,7 +1,20 @@
-- 👋 Hi, I’m @aditiidesai
-- 👀 I’m interested in Machine Learning, Data Science and Finance
-- 🌱 I’m currently persuing Data Science at Manipal Institute of Technology
-- 💞️ I’m looking to collaborate on projects related to the above
+# 👋 Hi, I’m Aditi
+
+## About Me:
+I am Aditi , currently pursuing my Btech in Data Science from Manipal Institute of Technology. A Machine Learning and Data Science enthusiast. Interested in intergrating the hardware aspect to the software aspect in projects. 
+
+## 💡Technologies:
+
+### Languages:
+Java 
+
+### Libraries and Framework:
+Numpy, Pandas, Scikit-learn, tensorflow, keras
+
+### Other Tools:
+Adobe Illustrator, Adobe Photoshop, Scratch
+
+
 
 <!---
 aditiidesai/aditiidesai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
